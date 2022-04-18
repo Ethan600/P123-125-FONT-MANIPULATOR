@@ -1,0 +1,30 @@
+.heading{
+    font-size: 30px;
+    margin: 0;
+    width: 100%;
+    box-shadow: 5px 5px 10px darkslategray;
+    font-family: 'Syne Tactile', cursive;
+}
+
+.note{
+    color:red;
+    font-size: medium;
+    font-family: 'Righteous', cursive;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Syne Tactile', cursive;
+    text-align: center;
+    line-height: 3;
+    color: black;
+    box-shadow: 5px -5px 10px darkslategray;
+}
+
+canvas{
+    border: 6px dashed white;
+    border-radius: 15px;
+    box-shadow: -5px 5px 10px aqua;
+}
